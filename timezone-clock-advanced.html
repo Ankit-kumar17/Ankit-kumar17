@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Advanced Multi-Timezone Digital Clock</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f4f4f4;
+            color: #333;
+            text-align: center;
+            padding: 50px;
+        }
+        #clock {
+            font-size: 2em;
+            margin: 20px 0;
+            padding: 20px;
+            border: 2px solid #333;
+            border-radius: 10px;
+            background-color: #fff;
+        }
+        .timezone {
+            margin: 10px;
+        }
+        button {
+            margin: 5px;
+            padding: 10px 15px;
+            font-size: 1em;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h1>Advanced Multi-Timezone Digital Clock</h1>
+    <div id="clock"></div>
+    <div class="timezone">
+        <input type="text" id="customTimezone" placeholder="Enter Timezone (e.g., Asia/Kolkata)">
+        <button onclick="addTimezone()">Add Custom Timezone</button>
+    </div>
+    <div id="presetTimezones"></div>
+    <script>
+        const presetTimezones = ['UTC', 'America/New_York', 'Europe/London', 'Asia/Kolkata', 'Asia/Tokyo'];
+        const timezoneData = {};
+        const clockElement = document.getElementById('clock');
+        const presetTimezonesElement = document.getElementById('presetTimezones');
+
+        function updateClock() {
+            clockElement.innerHTML = '';
+            for (const timezone in timezoneData) {
+                const date = new Date().toLocaleString('en-US', { timeZone: timezone });
+                clockElement.innerHTML += `<div><strong>${timezone}</strong>: ${date}</div>`;
+            }
+        }
+
+        function addPresetTimezone(timezone) {
+            if (!timezoneData[timezone]) {
+                timezoneData[timezone] = true;
+                const btn = document.createElement('button');
+                btn.innerText = timezone;
+                btn.onclick = function() { removeTimezone(timezone); };
+                presetTimezonesElement.appendChild(btn);
+                updateClock();
+            }
+        }
+
+        function addTimezone() {
+            const customTimezone = document.getElementById('customTimezone').value;
+            if (customTimezone) {
+                addPresetTimezone(customTimezone);
+                document.getElementById('customTimezone').value = '';
+                localStorage.setItem('timezones', JSON.stringify(Object.keys(timezoneData)));
+            }
+        }
+
+        function removeTimezone(timezone) {
+            delete timezoneData[timezone];
+            updateClock();
+            renderTimezones();
+        }
+
+        function renderTimezones() {
+            presetTimezonesElement.innerHTML = '';
+            Object.keys(timezoneData).forEach(tz => {
+                const btn = document.createElement('button');
+                btn.innerText = tz;
+                btn.onclick = function() { removeTimezone(tz); };
+                presetTimezonesElement.appendChild(btn);
+            });
+        }
+
+        function loadTimezones() {
+            const storedTimezones = JSON.parse(localStorage.getItem('timezones')) || [];
+            storedTimezones.forEach(tz => addPresetTimezone(tz));
+        }
+
+        setInterval(updateClock, 1000);
+        loadTimezones();
+        presetTimezones.forEach(tz => addPresetTimezone(tz));
+    </script>
+</body>
+</html>
