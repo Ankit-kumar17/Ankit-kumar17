@@ -82,11 +82,6 @@
 </p>
 
 ---
-# 🐍 Contribution Activity
-
-![GitHub Contribution Snake](https://github.com/Amrit-raj50/Amrit-raj50/blob/output/github-contribution-grid-snake-dark.svg)
-
----
 
 # 📫 Connect With Me
 
