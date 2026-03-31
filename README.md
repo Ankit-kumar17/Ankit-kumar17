@@ -49,11 +49,6 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb" />
 </p>
 
-### 🎮 Game Development (Web)
-<p>
-<img src="https://skillicons.dev/icons?i=js" />
-</p>
-
 ### ⚙️ Tools & Technologies
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,java" />
@@ -96,8 +91,7 @@
 
 # 📫 Connect With Me
 
-- 💻 GitHub: https://github.com/Amrit-raj50  
-- 🎮 itch.io: https://amrit-raj50.itch.io  
+- 💻 GitHub: https://github.com/Ankit-kumar17   
 
 ---
 
