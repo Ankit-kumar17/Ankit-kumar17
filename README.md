@@ -1,88 +1,140 @@
-<p align="center">
-<img src="unnamed.jpg" width="100%"/>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="tech banner gif" />
 
-<h1 align="center">Hi 👋, I'm Ankit kumar</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Swaraj+Prajapati;Aspiring+Full+Stack+Developer;MERN+%7C+Scalable+Web+Apps" alt="Typing SVG" />
+  </a>
+</h1>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Building+Full+Stack+Projects;Always+Learning+and+Building&center=true&width=600&height=50">
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Opportunities-00C853?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Opportunities" />
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=SwarajPrajapati2006&label=Profile%20Views&color=00C853&style=for-the-badge" alt="Profile Views" />
+</div>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Ankit-kumar17&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
+<br>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
+</div>
 
-# 🧠 About Me
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" alt="coding gif" />
 
-<table>
-<tr>
-<td width="55%">
+### 👤 About Me
 
-- 🚀 *MERN Stack Developer* focused on building modern web applications  
-- 🌐 Strong in *Frontend Development (HTML, CSS, JavaScript)*    
-- 🧩 Creating *interactive websites and full-stack applications*  
-- 📚 Currently learning *Node.js, Express & MongoDB*  
-- 🎯 Goal: *Become a Professional Full Stack Developer*
+- 🎓 BE Computer Engineering student at Swaminarayan University | Aspiring MERN Stack Developer passionate about scalable apps, clean UI/UX, DSA, and fitness 🏋️‍♂️
 
-</td>
+<br clear="right"/>
 
-<td width="45%">
+### 🌐 Connect With Me
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+<div align="center">
+  <a href="https://swaraj-portfolio-alpha.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/Swaraj_Prajapati" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/Swaraj_06" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  &nbsp;
+  <a href="YOUR_RESUME_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+  </a>
+</div>
 
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
+</div>
 
----
+### 🛠️ Tech Stack
 
-# 🛠️ Tech Stack
+*Frontend*
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</div>
 
-### 🌐 Web Development
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb" />
-</p>
+<br>
 
-### ⚙️ Tools & Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,java" />
-</p>
+*Backend & Database*
+<div align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+</div>
 
----
+<br>
 
-# 🌐 Web Development Skills
+*Languages & Tools*
+<div align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+</div>
 
-- Responsive UI Design  
-- DOM Manipulation  
-- JavaScript Application Logic  
-- REST API Integration  
-- Component-Based UI  
-- Full Stack Development (Learning)  
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
+</div>
 
----
+### 📊 GitHub Stats & Most Used Languages
 
-# 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SwarajPrajapati2006&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00C853&icon_color=00C853&text_color=FFFFFF" height="180" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SwarajPrajapati2006&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00C853&text_color=FFFFFF&langs_count=8" height="180" alt="Most Used Languages" />
+</div>
 
-<p align="center">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ankit-kumar17&show_icons=true&theme=tokyonight" />
+### 🔥 GitHub Streak Stats
 
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=SwarajPrajapati2006&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00C853&fire=00C853&currStreakLabel=00C853" alt="GitHub Streak" />
+</div>
 
-<p align="center">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-kumar17&theme=tokyonight" />
+### 📈 Contribution Activity
 
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SwarajPrajapati2006&bg_color=0D1117&color=00C853&line=00C853&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
+</div>
 
-# 📫 Connect With Me
 
-- 💻 GitHub: https://github.com/Ankit-kumar17   
+<br>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
-⭐ Focused on building strong JavaScript fundamentals and building modern full-stack applications.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
+</div>
+  <p align="center"><em>⭐ If you like my work, consider giving a star to my repositories!</em></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=100&section=footer" width="100%"/>
