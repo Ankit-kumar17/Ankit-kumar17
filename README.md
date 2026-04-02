@@ -22,7 +22,11 @@
 
 ### 👤 About Me
 
-- 🎓 BE Computer Engineering student at Swaminarayan University | Aspiring MERN Stack Developer passionate about scalable apps, clean UI/UX, DSA, and fitness 🏋️‍♂️
+- 🚀 *MERN Stack Developer* focused on building modern web applications  
+- 🌐 Strong in *Frontend Development (HTML, CSS, JavaScript)*  
+- 🧩 Creating *interactive websites and full-stack applications*  
+- 📚 Currently learning *Node.js, Express & MongoDB*  
+- 🎯 Goal: *Become a Professional Full Stack Developer*
 
 <br clear="right"/>
 
