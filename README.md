@@ -2,14 +2,14 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Swaraj+Prajapati;Aspiring+Full+Stack+Developer;MERN+%7C+Scalable+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Ankit+kumar;Aspiring+Full+Stack+Developer;MERN+%7C+Scalable+Web+Apps" alt="Typing SVG" />
   </a>
 </h1>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Open%20to%20Opportunities-00C853?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Opportunities" />
   &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=SwarajPrajapati2006&label=Profile%20Views&color=00C853&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Ankit-kumar17&label=Profile%20Views&color=00C853&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br>
@@ -33,11 +33,12 @@
     <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/Swaraj_Prajapati" target="_blank">
+  <a href="https://www.linkedin.com/in/ankit-kumar-abbbb0336/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://x.com/Swaraj_06" target="_blank">
+  <a href="https://x.com/Ankit_s_Kumar
+" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   &nbsp;
@@ -95,9 +96,9 @@
 ### 📊 GitHub Stats & Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SwarajPrajapati2006&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00C853&icon_color=00C853&text_color=FFFFFF" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ankit-kumar17&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00C853&icon_color=00C853&text_color=FFFFFF" height="180" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SwarajPrajapati2006&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00C853&text_color=FFFFFF&langs_count=8" height="180" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ankit-kumar17&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00C853&text_color=FFFFFF&langs_count=8" height="180" alt="Most Used Languages" />
 </div>
 
 <div align="center">
@@ -107,7 +108,7 @@
 ### 🔥 GitHub Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=SwarajPrajapati2006&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00C853&fire=00C853&currStreakLabel=00C853" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Ankit-kumar17&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00C853&fire=00C853&currStreakLabel=00C853" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -117,7 +118,7 @@
 ### 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SwarajPrajapati2006&bg_color=0D1117&color=00C853&line=00C853&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit-kumar17&bg_color=0D1117&color=00C853&line=00C853&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <div align="center">
