@@ -67,13 +67,13 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Amrit-raj50&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ankit-kumar17&show_icons=true&theme=tokyonight" />
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amrit-raj50&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-kumar17&theme=tokyonight" />
 
 </p>
 
