@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Ankit kumar</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+DeveloperBuilding+Full+Stack+Projects;Always+Learning+and+Building&center=true&width=600&height=50">
+<img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Building+Full+Stack+Projects;Always+Learning+and+Building&center=true&width=600&height=50">
 </p>
 
 <p align="center">
